@@ -2,3 +2,4 @@ venv1
 myenv
 virtual_env
 venv*
+__pycache__
